@@ -1,0 +1,29 @@
+body {
+    background-color: white;
+    color: #272932;
+    text-align: justify;
+    font-family: "calibri", sans-serif;
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 32px;
+    color: #1B0666;
+    font-weight: bold;
+}
+
+h2 {
+    margin-left: 40px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+h3 {
+    margin-left: 60px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+img {
+    text-align: center;
+}
